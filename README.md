@@ -1,2 +1,2 @@
 # Convolution
-web of Convolution
+Implement convolution calculations on web pages
